@@ -1,0 +1,4 @@
+・構築手順書１（AWSインスタンス）
+https://triangular-timimus-4b6.notion.site/AWS-65ee1f1041b842c58e3215066f6d418e?pvs=4
+・構築手順書２（各ソフトウェア）
+https://triangular-timimus-4b6.notion.site/b8fb992d509f414ebd16df4aa78cc0b6?pvs=4
